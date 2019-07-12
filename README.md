@@ -378,7 +378,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
             <option>Łeba</option>
              <option>Władysławowo</option>
               <option>Hel</option>
-               <option>Sopot/gdansk/gdynia</option>
+               <option>Sopot/Gdańsk/Gdynia</option>
                 <option>Elbląg</option>
                  <option>Krynica morska</option>
 </select>
