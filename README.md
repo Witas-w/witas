@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -163,7 +162,8 @@ select {
     <a  href="#turnusy" class="boa"> Turnusy</a>
     <a  href="#atrakcje" class="boa"> atrakcje</a>
     <a  href="#OUstce" class="boa">O Ustce</a>
-     <a  href="#blog" class="boa">Blog</a></div>
+     <a  href="#blog" class="boa">Blog</a>
+    </div>
          <a  href="https://witas-w.github.io/strona-g-wna/. " class="boa">Strona główna</a></div>
     </nav>
     <h2 id="mojeWakacje">Moje wakacje</h2>
@@ -176,7 +176,7 @@ select {
         <li>Babcia Gienia i Dziadek Staszek-12.07-15.08</li>
         <li>Mama i tata-20.06-30.06 </li>
         <li>Babcia Gaga i Dziadek Andrzej 30.06-25.07</li>
-        <li>Wujek i ciocia 30.06-05.07</li>
+        <li>Wujek i ciocia 30.06-01.07</li>
     </ul>
   <h2 id="atrakcje">Atrakcje</h2>
    <ul>
