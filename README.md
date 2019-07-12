@@ -302,7 +302,8 @@ select {
                 <td>28.06.2019r.</td>
                 <td>brak</td>
                 <td>kontenerowiec</td>
-                <td>28.06.2019r. </td>
+                <td>Hellsdorf
+                </td>
             </tr>
             <tr>
                 <td><strong>Unicus</strong></td>
