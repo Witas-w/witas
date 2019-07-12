@@ -157,7 +157,8 @@ select {
         
     <h1 id="temat">Ustka</h1>
     
-   <div class="ust"> <nav>
+   <div class="ust">
+    <nav>
    <a  href="#mojeWakacje" class="boa">Moje wakacje</a>
     <a  href="#turnusy" class="boa"> Turnusy</a>
     <a  href="#atrakcje" class="boa"> atrakcje</a>
