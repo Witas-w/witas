@@ -343,12 +343,9 @@ select {
   <h3 id="DD">10.07.2019r.</h3>
   <p>Dzisiaj mielismy przerwe od obiadu wiec poszlismy do <em>Starej pierogarni</em>.Babcia zjadla pierogi ze szpinakiem dziadek ruskie i ze szpinakiem, a ja ruskie.
 Po nim poszlismy z babcia n wschodnia srtrone.Gdy przechodlismy przez kladke zaczelo lac i zaczela sie burza z piorunami.Musielismy sie gdzies schowac.Gdy wracalismy zaczelo znowu lac.  </p>
-  <label for="story">Dodaj komentarz</label>
+  
 
-<textarea id="story" name="story"
-          rows="5" cols="10”>
 
-</textarea>
 
  <label for="pet-select">Wybierz ulubione zwierze:</label>
 
