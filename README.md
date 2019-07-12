@@ -345,9 +345,10 @@ select {
   <h3>10.07.2019r.</h3>
   <p>Dzisiaj mieliśmy przerwę od obiadu więc poszliśmy do <em>Starej pierogarni</em>.Babcia zjadła pierogi ze szpinakiem dziadek ruskie i ze szpinakiem, a ja ruskie.
 Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kładkę zaczęło lać i zaczęła się burza z piorunami.Musieliśmy się gdzieś schować.Gdy wracaliśmy zaczęło znowu lać.  </p>
-  <h3 id="DD">11.07.2019r.</h3>
+  <h3>11.07.2019r.</h3>
 <p>Dzisiaj obiad zjedliśmy w domu.Babcia i dziadek przyjechali o 19:00.Dziś świeciło słońce więc wyszliśmy na 5 godzin.</p>
-
+  <h3 id=„DD”>12.07.2019r.</h3>
+<p>Dzisiajbyliśmy na obiedzie i spotkaliśmy się z drugimi dziadkami.Poszliśmy też na lody do <em>Góry lodowej</em>.Gdy wyszliśmy drugim razem wypatrzyłem kontenerowiec płynący z Darłowa.Widzieliśmy też pokazy, w których uczestniczyły samoloty i paralotnie.
 
 
  <label for="pet-select">Wybierz ulubione zwierze:</label>
