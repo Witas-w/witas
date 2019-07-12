@@ -156,7 +156,7 @@ select {
 
         
     <h1 id="temat">Ustka</h1>
-    <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" alt="morze" class="imgth"> 
+    
    <div class="ust"> <nav>
    <div> <a  href="#mojeWakacje" class="boa">Moje wakacje</a>
     <a  href="#turnusy" class="boa"> Turnusy</a>
