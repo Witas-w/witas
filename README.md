@@ -340,10 +340,11 @@ select {
   <p>Dzisiaj bylismy na obiedzie.A po nim poszlismy z babcia na automaty.</p>
   <h3>9.07.2019r.</h3>
   <p>Dzisiaj bylismy na obiedzie.Po nim poszlismy do chinskiego marketu.Caly dzien lalo.Jedlismy tez galaretke i lody.</p>
-  <h3 id="DD">10.07.2019r.</h3>
+  <h3>10.07.2019r.</h3>
   <p>Dzisiaj mielismy przerwe od obiadu wiec poszlismy do <em>Starej pierogarni</em>.Babcia zjadla pierogi ze szpinakiem dziadek ruskie i ze szpinakiem, a ja ruskie.
 Po nim poszlismy z babcia n wschodnia srtrone.Gdy przechodlismy przez kladke zaczelo lac i zaczela sie burza z piorunami.Musielismy sie gdzies schowac.Gdy wracalismy zaczelo znowu lac.  </p>
-  
+  <h3 id="DD">11.07.2019r.</h3>
+<p>Dzisiaj obiad zjedlismy obiad w domu.Babcia i dziadek przyjechali o 19:00.Dzis swiecilo slonce wiec wyszlismy na 5 godzin.</p>
 
 
 
