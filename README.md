@@ -196,7 +196,7 @@ select {
   <h2 id="blog">Blog</h2>
   <a href="#DD"><button class="styled"
         type="button">
-   Dzien dzisiejszy
+   Dzień dzisiejszy
 </button></a>
   <h3>26.06.2019r.</h3>
   
@@ -322,30 +322,30 @@ select {
         </tbody>
     </table>
     <h3>30.06.2019r.</h3>
-    <p>Dzisiaj byliśmy w <em>Górze Lodowej</em>.Następnie poszliśmy na gokarty.Jedliśmy też rybę w <em> Złotej rybce</em>.Zaraz idziemy na gofry.(przepraszam ale nie wszystkie litery wchodza na <em>Windows 10</em>).</p>
+    <p>Dzisiaj byliśmy w <em>Górze Lodowej</em>.Następnie poszliśmy na gokarty.Jedliśmy też rybę w <em> Złotej rybce</em>.Zaraz idziemy na gofry.</p>
     <h3>1.07.2019r.</h3>
-    <p>Dzisiaj bylismy w <em><strong>Doliny Charlotty</strong></em>. A nastepnie poszlismy do <em> Mar-Huba</em>.</p>
+    <p>Dzisiaj byliśmy w <em><strong>Dolinie Charlotty</strong></em>. A następnie poszliśmy do <em> Mar-Huba</em>.</p>
   <h3>2.07.2019r.</h3>
-  <p>Po wyjsciu z domu o godz.12:10 poszlismy na targ.Nastepnie wypożyczylismy gokarty na pól godziny. przeszlismy sie do <em>Mistrala</em> gdzie zjedlismy obiad. Na promenadzie weszlismy do salonu gier gdzie wygralem z dziadkiem 4 rundy w cymber guy-u.Dzisiaj jest duzy sztorm wiec kladka otwarta jest prawie caly dzień.</p>
+  <p>Po wyjściu z domu o godz.12:10 poszliśmy na targ.Następnie wypożyczylismy gokarty na pół godziny. przeszliśmy się do <em>Mistrala</em> gdzie zjedliśmy obiad. Na promenadzie weszliśmy do salonu gier gdzie wygrałem z dziadkiem 4 rundy w cymber guy-u.Dzisiaj jest duży sztorm więc kładka otwarta jest prawie cały dzień.</p>
   <h3>3.07.2019r.</h3>
-  <p>Dzisiaj zjedlismy obiad na <em>Politechnice Wroclawskiej</em>.Ponownie w dniu dzisiejszym nastapil sztorm.Kladka jest dokladnie tak jak wczoraj jest otwarta przez caly dzień.</p>
+  <p>Dzisiaj zjedliśmy obiad na <em>Politechnice Wrocławskiej</em>.Ponownie w dniu dzisiejszym nastąpił sztorm.Kładka jest dokładnie tak jak wczoraj otwarta przez cały dzień.</p>
   <h3>4.07.2019r.</h3>
-  <p>Dzisiaj bylo duże zamieszanie z obiadami.Ostatecznie ustalilismy że obiady beda na czternasta. Nadal jest sztorm i kladka cały dzień otwarta.Jedlismy tez pyszna galaretke w <em>Bacio</em>.</p>
+  <p>Dzisiaj było duże zamieszanie z obiadami.Ostatecznie ustaliliśmy że obiady będą na trzynastą. Nadal jest sztorm i kładka cały dzień otwarta.Jedliśmy też pyszną galaretkę w <em>Bacio</em>.</p>
   <h3>5.07.2019r.</h3>
-  <p>Dzisiaj byl sztorm.Kladka tym razem nie byla otwarta caly dzien lecz 35 minut.Statki niestaly juz pochowane, a bylo ich zwiedzanie.<em>Kasienka II</em>wyplywala do kanalu portowego gdzie zawracala do stoczni.<em>Dragon byl zwiedzany za 5 zlotych od osoby</em>.</p>
+  <p>Dzisiaj był sztorm.Kładka tym razem nie była otwarta cały dzień lecz 35 minut.Statki niestały juz pochowane, a było ich zwiedzanie.<em>Kasieńka II</em>wypływała do kanału portowego gdzie zawracała do stoczni.<em>Dragon był zwiedzany za 5 złotych od osoby</em>.</p>
   <h3>6.07.2019r.</h3>
-  <p>Dzisiaj bylismy na obiedzie p którym poszlismy na automaty.
-  Po grze udalismy sie do <em>Bacio</em>gdzie zjedlismy galaretke.Caly dzisiejszy dzien leje deszcz i jest troche zimno.</p>
+  <p>Dzisiaj byliśmy na obiedzie pobktórym poszliśmy na automaty.
+  Po grze udaliśmy się do <em>Bacio</em>gdzie zjedliśmy galaretkę.Cały dzisiejszy dzień leje deszcz i jest trochę zimno.</p>
   <h3>7.06.2019r.</h3>
-  <p>Dzisiaj bylismy na obiedzie.Po nim poszlismy na automaty.Wieczorem zjedlismy galaretke w <em>Bacio</em>.</p>    <h3 >8.07.2019r.</h3>
-  <p>Dzisiaj bylismy na obiedzie.A po nim poszlismy z babcia na automaty.</p>
+  <p>Dzisiaj byliśmy na obiedzie.Po nim poszliśmy na automaty.Wieczorem zjedliśmy galaretkę w <em>Bacio</em>.</p>    <h3 >8.07.2019r.</h3>
+  <p>Dzisiaj byliśmy na obiedzie.A po nim poszliśmy z babcią na automaty.</p>
   <h3>9.07.2019r.</h3>
-  <p>Dzisiaj bylismy na obiedzie.Po nim poszlismy do chinskiego marketu.Caly dzien lalo.Jedlismy tez galaretke i lody.</p>
+  <p>Dzisiaj byliśmy na obiedzie.Po nim poszliśmy do chińskiego marketu.Cały dzień lało.Jedliśmy też galaretkę i lody.</p>
   <h3>10.07.2019r.</h3>
-  <p>Dzisiaj mielismy przerwe od obiadu wiec poszlismy do <em>Starej pierogarni</em>.Babcia zjadla pierogi ze szpinakiem dziadek ruskie i ze szpinakiem, a ja ruskie.
-Po nim poszlismy z babcia n wschodnia srtrone.Gdy przechodlismy przez kladke zaczelo lac i zaczela sie burza z piorunami.Musielismy sie gdzies schowac.Gdy wracalismy zaczelo znowu lac.  </p>
+  <p>Dzisiaj mieliśmy przerwę od obiadu więc poszliśmy do <em>Starej pierogarni</em>.Babcia zjadła pierogi ze szpinakiem dziadek ruskie i ze szpinakiem, a ja ruskie.
+Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kładkę zaczęło lać i zaczęła się burza z piorunami.Musieliśmy się gdzieś schować.Gdy wracaliśmy zaczęło znowu lać.  </p>
   <h3 id="DD">11.07.2019r.</h3>
-<p>Dzisiaj obiad zjedlismy w domu.Babcia i dziadek przyjechali o 19:00.Dzis swiecilo slonce wiec wyszlismy na 5 godzin.</p>
+<p>Dzisiaj obiad zjedliśmy w domu.Babcia i dziadek przyjechali o 19:00.Dziś świeciło słońce więc wyszliśmy na 5 godzin.</p>
 
 
 
@@ -364,19 +364,19 @@ Po nim poszlismy z babcia n wschodnia srtrone.Gdy przechodlismy przez kladke zac
 <select>
  <option>--Wybierz opcje--</option>
     <option>Szczecin</option>
-     <option>Swinoujscie</option>
-     <option>Miedzyzdroje</option>
-      <option>Miedzywodzie</option>
-       <option>Kolobrzeg</option>
+     <option>Świnoujście</option>
+     <option>Międzyzdroje</option>
+      <option>Międzywodzie</option>
+       <option>Kołobrzeg</option>
         <option>Mrzeżyno</option>
-         <option>Darlowo/darlówek</option>
+         <option>Darłowo/darlówek</option>
           <option>Ustka</option>
            <option>Rowy</option>
-            <option>Leba</option>
-             <option>Wladyslawowo</option>
+            <option>Łeba</option>
+             <option>Władysławowo</option>
               <option>Hel</option>
                <option>Sopot/gdansk/gdynia</option>
-                <option>Elblag</option>
+                <option>Elbląg</option>
                  <option>Krynica morska</option>
 </select>
 <h3>Pies czy nie?</h3>
