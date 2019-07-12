@@ -348,7 +348,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   <h3>11.07.2019r.</h3>
 <p>Dzisiaj obiad zjedliśmy w domu.Babcia i dziadek przyjechali o 19:00.Dziś świeciło słońce więc wyszliśmy na 5 godzin.</p>
   <h3 id=„DD”>12.07.2019r.</h3>
-<p>Dzisiajbyliśmy na obiedzie i spotkaliśmy się z drugimi dziadkami.Poszliśmy też na lody do <em>Góry lodowej</em>.Gdy wyszliśmy drugim razem wypatrzyłem kontenerowiec płynący z Darłowa.Widzieliśmy też pokazy, w których uczestniczyły samoloty i paralotnie.
+<p>Dzisiajbyliśmy na obiedzie i spotkaliśmy się z drugimi dziadkami.Poszliśmy też na lody do <em>Góry lodowej</em>.Gdy wyszliśmy drugim razem wypatrzyłem kontenerowiec płynący z Darłowa.Widzieliśmy też pokazy, w których uczestniczyły samoloty i paralotnie.</p>
 
 
  <label for="pet-select">Wybierz ulubione zwierze:</label>
