@@ -164,6 +164,7 @@ select {
     <a  href="#atrakcje" class="boa"> atrakcje</a>
     <a  href="#OUstce" class="boa">O Ustce</a>
      <a  href="#blog" class="boa">Blog</a></div>
+         <a  href="https://witas-w.github.io/strona-g-wna/. " class="boa">Strona główna</a></div>
     </nav>
     <h2 id="mojeWakacje">Moje wakacje</h2>
 <p>Mój pobyt rozpoczął się 20.06.2019 roku.</p>
