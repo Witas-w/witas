@@ -322,7 +322,7 @@ select {
         </tbody>
     </table>
     <h3>30.06.2019r.</h3>
-    <p>Dzisiaj bylismy w <em>Górze Lodowej</em>.Nastepnie poszlismy na gokarty.Jedlismy też rybe w <em> Zlotej rybce</em>.Zaraz idziemy na gofry.(przepraszam ale nie wszystkie litery wchodza na <em>Windows 10</em>).</p>
+    <p>Dzisiaj byliśmy w <em>Górze Lodowej</em>.Następnie poszliśmy na gokarty.Jedliśmy też rybę w <em> Złotej rybce</em>.Zaraz idziemy na gofry.(przepraszam ale nie wszystkie litery wchodza na <em>Windows 10</em>).</p>
     <h3>1.07.2019r.</h3>
     <p>Dzisiaj bylismy w <em><strong>Doliny Charlotty</strong></em>. A nastepnie poszlismy do <em> Mar-Huba</em>.</p>
   <h3>2.07.2019r.</h3>
