@@ -1,5 +1,5 @@
 
-<html>DECTOP!</html>
+<html !DECTYPE >
     <head>
         <meta charset="utf-8">
         <title>Spin-off z " "ustka""</title>
