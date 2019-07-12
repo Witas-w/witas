@@ -345,7 +345,7 @@ Po nim poszlismy z babcia n wschodnia srtrone.Gdy przechodlismy przez kladke zac
   <label for="story">Dodaj komentarz</label>
 
 <textarea id="story" name="story"
-          rows="5" cols="50">
+          rows="5" cols="10”>
 
 </textarea>
 
