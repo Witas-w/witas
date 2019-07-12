@@ -330,7 +330,7 @@ select {
   <h3>3.07.2019r.</h3>
   <p>Dzisiaj zjedlismy obiad na <em>Politechnice Wroclawskiej</em>.Ponownie w dniu dzisiejszym nastapil sztorm.Kladka jest dokladnie tak jak wczoraj jest otwarta przez caly dzień.</p>
   <h3>4.07.2019r.</h3>
-  <p>Dzisiaj bylo duże zamieszanie z obiadami.Ostatecznie ustalilismy że obiady beda na czternasta. Nadal jest sztorm i kladkacaly dzien otwarta.Jedlismy tez pyszna galaretke w <em>Bacio</em>.</p>
+  <p>Dzisiaj bylo duże zamieszanie z obiadami.Ostatecznie ustalilismy że obiady beda na czternasta. Nadal jest sztorm i kladka cały dzień otwarta.Jedlismy tez pyszna galaretke w <em>Bacio</em>.</p>
   <h3>5.07.2019r.</h3>
   <p>Dzisiaj byl sztorm.Kladka tym razem nie byla otwarta caly dzien lecz 35 minut.Statki niestaly juz pochowane, a bylo ich zwiedzanie.<em>Kasienka II</em>wyplywala do kanalu portowego gdzie zawracala do stoczni.<em>Dragon byl zwiedzany za 5 zlotych od osoby</em>.</p>
   <h3>6.07.2019r.</h3>
