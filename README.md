@@ -176,7 +176,7 @@ select {
         <li>Mama i tata-20.06-30.06 </li>
         <li>Babcia Gaga i Dziadek Andrzej 30.06-25.07</li>
         <li>Wujek i ciocia 30.06-01.07</li>
-        <li>Babcia Gienia i Dziadek Staszek-12.07-15.08</li>
+        <li>Babcia Gienia i Dziadek Staszek-11.07-15.08</li>
     </ul>
   <h2 id="atrakcje">Atrakcje</h2>
    <ul>
