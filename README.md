@@ -186,7 +186,7 @@ select {
        <li>Latarnia</li>
    </ul>
    
-   <img src="https://www.kasandbox.org/programming-images/landscapes/beach.png" alt="A happy Beaver" width="83%">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Latarnia_Ustka.jpg" alt="A happy Beaver" width="83%">
    
  <h2 id="OUstce">O Ustce</h2>
  <p><strong>Ustka</strong> to miasto w północnej Polsce, w województwie pomorskim,<br>
