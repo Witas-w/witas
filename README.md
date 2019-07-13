@@ -338,7 +338,7 @@ select {
   <p>Dzisiaj byliśmy na obiedzie pobktórym poszliśmy na automaty.
   Po grze udaliśmy się do <em>Bacio</em>gdzie zjedliśmy galaretkę.Cały dzisiejszy dzień leje deszcz i jest trochę zimno.</p>
   <h3>7.07.2019r.</h3>
-  <p>Dzisiaj byliśmy na obiedzie.Po nim poszliśmy do kina.Wieczorem zjedliśmy galaretkę w <em>Bacio</em>.</p>    <h3 >8.07.2019r.</h3>
+  <p>Dzisiaj byliśmy na obiedzie.Po nim poszliśmy na automaty.Wieczorem zjedliśmy galaretkę w <em>Bacio</em>.</p>    <h3 >8.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie.A po nim poszliśmy z babcią na automaty.</p>
   <h3>9.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie.Po nim poszliśmy do chińskiego marketu.Cały dzień lało.Jedliśmy też galaretkę i lody.</p>
@@ -347,9 +347,10 @@ select {
 Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kładkę zaczęło lać i zaczęła się burza z piorunami.Musieliśmy się gdzieś schować.Gdy wracaliśmy zaczęło znowu lać.  </p>
   <h3>11.07.2019r.</h3>
 <p>Dzisiaj obiad zjedliśmy w domu.Babcia i dziadek przyjechali o 19:00.Dziś świeciło słońce więc wyszliśmy na 5 godzin.</p>
-  <h3 id="DD">12.07.2019r.</h3>
+  <h3>12.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie i spotkaliśmy się z drugimi dziadkami.Poszliśmy też na lody do <em>Góry lodowej</em>.Gdy wyszliśmy drugim razem wypatrzyłem kontenerowiec płynący z Darłowa.Widzieliśmy też pokazy, w których uczestniczyły samoloty i paralotnie.</p>
-
+  <h3  id="DD">13.07.2019r.</h3>
+  <p>Dzisiaj poszliśmy na obiad. Po nim poszliśmy na gokarty. Wtedy zaczęło kropić ale po dwóch minutach przestało. Wróciliśmy, więc do domu zachaczając o <em>Górę Lodową</em>. Potem wróciliśmy na miasto i poszliśmy na promenadę. Statek SM PRC 112 opuścił port wczoraj około godziny 20, a wrócił o 22. Stoi on dzisiaj przy nabrzeżu po drugiej stronie kładki. Wieczorem poszliśmy na koncert Kamila Bednarka. Widzieliśmy też pokazy akrobacji lotniczych, spadochroniarskich i bardzo nisko lecący samolot wojska polskiego Casa.</p>
 
  <label for="pet-select">Wybierz ulubione zwierze:</label>
 
