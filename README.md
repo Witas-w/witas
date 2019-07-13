@@ -333,12 +333,12 @@ select {
   <h3>4.07.2019r.</h3>
   <p>Dzisiaj było duże zamieszanie z obiadami.Ostatecznie ustaliliśmy że obiady będą na trzynastą. Nadal jest sztorm i kładka cały dzień otwarta.Jedliśmy też pyszną galaretkę w <em>Bacio</em>.</p>
   <h3>5.07.2019r.</h3>
-  <p>Dzisiaj był sztorm.Kładka tym razem nie była otwarta cały dzień lecz 35 minut.Statki niestały juz pochowane, a było ich zwiedzanie.<em>Kasieńka II</em>wypływała do kanału portowego gdzie zawracała do stoczni.<em>Dragon był zwiedzany za 5 złotych od osoby</em>.</p>
+  <p>Dzisiaj był sztorm.Kładka tym razem nie była otwarta cały dzień lecz 35 minut.Statki nie stały już pochowane, a było ich zwiedzanie.<em>Kasieńka II</em>wypływała do kanału portowego gdzie zawracała do stoczni.<em>Dragon był zwiedzany za 5 złotych od osoby</em>.</p>
   <h3>6.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie pobktórym poszliśmy na automaty.
   Po grze udaliśmy się do <em>Bacio</em>gdzie zjedliśmy galaretkę.Cały dzisiejszy dzień leje deszcz i jest trochę zimno.</p>
   <h3>7.06.2019r.</h3>
-  <p>Dzisiaj byliśmy na obiedzie.Po nim poszliśmy na automaty.Wieczorem zjedliśmy galaretkę w <em>Bacio</em>.</p>    <h3 >8.07.2019r.</h3>
+  <p>Dzisiaj byliśmy na obiedzie.Po nim poszliśmy do kina.Wieczorem zjedliśmy galaretkę w <em>Bacio</em>.</p>    <h3 >8.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie.A po nim poszliśmy z babcią na automaty.</p>
   <h3>9.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie.Po nim poszliśmy do chińskiego marketu.Cały dzień lało.Jedliśmy też galaretkę i lody.</p>
