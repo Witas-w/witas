@@ -337,7 +337,7 @@ select {
   <h3>6.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie pobktórym poszliśmy na automaty.
   Po grze udaliśmy się do <em>Bacio</em>gdzie zjedliśmy galaretkę.Cały dzisiejszy dzień leje deszcz i jest trochę zimno.</p>
-  <h3>7.06.2019r.</h3>
+  <h3>7.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie.Po nim poszliśmy do kina.Wieczorem zjedliśmy galaretkę w <em>Bacio</em>.</p>    <h3 >8.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie.A po nim poszliśmy z babcią na automaty.</p>
   <h3>9.07.2019r.</h3>
