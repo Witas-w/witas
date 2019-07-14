@@ -349,7 +349,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
 <p>Dzisiaj obiad zjedliśmy w domu.Babcia i dziadek przyjechali o 19:00.Dziś świeciło słońce więc wyszliśmy na 5 godzin.</p>
   <h3>12.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie i spotkaliśmy się z drugimi dziadkami.Poszliśmy też na lody do <em>Góry lodowej</em>.Gdy wyszliśmy drugim razem wypatrzyłem kontenerowiec płynący z Darłowa.Widzieliśmy też pokazy, w których uczestniczyły samoloty i paralotnie.</p>
-  <h3  id="DD">13.07.2019r.</h3>
+  <h3>13.07.2019r.</h3>
   <p>Dzisiaj poszliśmy na obiad. Po nim poszliśmy na gokarty. Wtedy zaczęło kropić ale po dwóch minutach przestało. Wróciliśmy, więc do domu zachaczając o <em>Górę Lodową</em>. Potem wróciliśmy na miasto i poszliśmy na promenadę. Statek SM PRC 112 opuścił port wczoraj około godziny 20, a wrócił o 22. Stoi on dzisiaj przy nabrzeżu po drugiej stronie kładki. Przed koncertem poszliśmy na kolację do <em>Tawerny portowej</em>. Następnie poszliśmy na koncert Kamila Bednarka. Widzieliśmy też pokazy akrobacji lotniczych, spadochroniarskich i bardzo nisko lecący samolot wojska polskiego Casa.</p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20140628_CASA_C-295_Ma%C5%82opolski_Piknik_Lotniczy_6987.jpg/800px-20140628_CASA_C-295_Ma%C5%82opolski_Piknik_Lotniczy_6987.jpg">
  <h3 id="DD">14.07.2019r.</h3>
