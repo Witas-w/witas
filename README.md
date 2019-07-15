@@ -73,7 +73,7 @@ label {
         nav{
             text-align: center;
             font-size:20px;
-          background: rgb(175, 209, 209);
+          background-color: darkcyan;
           line-height: 2.3em;
           border-bottom:2px solid rgb(0, 0, 0);
         
