@@ -385,7 +385,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
                 <option>Elbląg</option>
                  <option>Krynica morska</option>
 </select>
-<h3>Moje ulubione zwierzę i rasa</h3>
+<h3>Moje ulubione zwierze i rasa:</h3>
 <img class="miko" id="pies" src="https://www.kasandbox.org/programming-images/animals/dogs_collies.png" >
    <h6>Autor: Jakub Witkowski</h6></div>
     </body>
