@@ -355,7 +355,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  <h3>14.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy na promenadę. W porcie oglądaliśmy statek SM PRC 112, który razem z barką pogłębia wejście do portu. Przez to <em>Dragon</em> wypływał 4 razy dziennie. Podczas wypłynięcia <em>Dragona</em> statek SM PRC 112 także opuszcza port wypływając blisko brzegu, a następnie wraca i wykręca w kanale portowym. Następnie poszliśmy na automaty i do <em>Bacio</em>. Wieczorem zaprosiliśmy drugich dziadków na wino.</p> 
  <h3 id="DD">15.07.2019r.</h3>
-  <p>Dzisiaj poszliśmy na obiad. Po nim przeszliśmy się plażą do Perły. Następnie wróciliśmy do domu zachaczając o <em>Górę Lodową</em>. Wieczorem wyszliśmy przejść się po okolicy</p>
+  <p>Dzisiaj poszliśmy na obiad. Po nim przeszliśmy się plażą do Perły. Następnie wróciliśmy do domu zahaczając o <em>Górę Lodową</em>. Wieczorem wyszliśmy przejść się po okolicy</p>
  <label for="pet-select">Wybierz ulubione zwierze:</label>
 
 <select id="pet-select">
