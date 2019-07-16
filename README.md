@@ -184,6 +184,8 @@ select {
        <li>Syrenka</li>
        <li>Promenada</li>
        <li>Latarnia</li>
+       <li>Port</li>
+       <li>Marynarki polskiej</li>
    </ul>
    
    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Latarnia_Ustka.jpg" alt="A happy Beaver" width="83%">
