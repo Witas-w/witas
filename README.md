@@ -356,8 +356,37 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20140628_CASA_C-295_Ma%C5%82opolski_Piknik_Lotniczy_6987.jpg/800px-20140628_CASA_C-295_Ma%C5%82opolski_Piknik_Lotniczy_6987.jpg">
  <h3>14.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy na promenadę. W porcie oglądaliśmy statek SM PRC 112, który razem z barką pogłębia wejście do portu. Przez to <em>Dragon</em> wypływał 4 razy dziennie. Podczas wypłynięcia <em>Dragona</em> statek SM PRC 112 także opuszcza port wypływając blisko brzegu, a następnie wraca i wykręca w kanale portowym. Następnie poszliśmy na automaty i do <em>Bacio</em>. Wieczorem zaprosiliśmy drugich dziadków na wino.</p> 
- <h3 id="DD">15.07.2019r.</h3>
+ <h3>15.07.2019r.</h3>
   <p>Dzisiaj poszliśmy na obiad. Po nim przeszliśmy się plażą do Perły. Następnie wróciliśmy do domu zahaczając o <em>Górę Lodową</em>. Wieczorem wyszliśmy przejść się po okolicy</p>
+  <h3>16.07.2019r.</h3>
+  <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy do <em>Lubicza</em> na  kawę i lody. Następnie przeszliśmy się promenadą do portu. W porcie stoją dwa nowe statki Imor i Mewo Navigator. Imor ostatnio był w Ustce podczas budowy kładki.Wieczorem poszliśmy jeszcze do Lidla na zakupy.</p>
+  <table>
+    <thead>
+        <tr>
+            <th>statek</th>
+            <th>rodzaj</th>
+            <th>data przypłynięcia</th>
+            <th>data odpłynięcia</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Imor</td>
+            <td>badawczy(Jednostka przystosowana do badań strefy przybrzeżnej i płytkich wód zalewowych.)</td>
+            <td>16.07.2019r.</td>
+            <td>17.07.2019r.</td>
+        </tr>
+        <tr>
+            <td>Mewo navigator</td>
+            <td>badawczy(Jednostka pomiarowa służąca do prowadzenia hydrograficznych prac pomiarowych na wodach morskich.)</td>
+            <td>16.07.2019r.</td>
+            <td>17.07.2019r.</td>
+        </tr>
+    </tbody>
+    </table>
+   <h3 id="DD">17.07.2019r.</h3>
+   <p>Dzisiaj byliśmy na obiedzie. Następnie poszliśmy na promenadę i do sklepu <em>Pierre Rene</em>. Potem poszliśmy do portu i na Marynarki. Wracając poszliśmy na gofra do <em>Chomczyńskich</em>. Wieczorem poszliśmy przez kładkę do portu obejrzeć niemiecki żaglowiec.</p>
+   
  <label for="pet-select">Wybierz ulubione zwierze:</label>
 
 <select id="pet-select">
