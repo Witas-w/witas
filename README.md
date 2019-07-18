@@ -384,9 +384,19 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
         </tr>
     </tbody>
     </table>
-   <h3 id="DD">17.07.2019r.</h3>
+   <h3>17.07.2019r.</h3>
    <p>Dzisiaj byliśmy na obiedzie. Następnie poszliśmy na promenadę i do sklepu <em>Pierre Rene</em>. Potem poszliśmy do portu i na Marynarki. Wracając poszliśmy na gofra do <em>Chomczyńskich</em>. Wieczorem poszliśmy przez kładkę do portu obejrzeć niemiecki żaglowiec.</p>
-   
+ <h3 id="DD">18.07.2019r.</h3>
+ <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy na promenadę. Następnie zagraliśmy na automatach w cymber guya. Statek SM PRC 112 wraz z barką Małż 2 pogłębia wejście do portu przez co Dragon wypływa 5 razy dziennie. Gdy wychodziliśmy z portu zauważyłem  statek firmy <em>Akva group</em>, którego wciągano na dok. Chyba jutro będzie jego wodowanie. Wieczorem poszliśmy na ognisko na Politechnice gdzie zjedliśmy kiełbasę i chleb. </p>
+    
+    
+    
+    
+    
+    
+    
+    
+    
  <label for="pet-select">Wybierz ulubione zwierze:</label>
 
 <select id="pet-select">
