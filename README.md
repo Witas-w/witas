@@ -360,6 +360,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   <p>Dzisiaj poszliśmy na obiad. Po nim przeszliśmy się plażą do Perły. Następnie wróciliśmy do domu zahaczając o <em>Górę Lodową</em>. Wieczorem wyszliśmy przejść się po okolicy</p>
   <h3>16.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy do <em>Lubicza</em> na  kawę i lody. Następnie przeszliśmy się promenadą do portu. W porcie stoją dwa nowe statki Imor i Mewo Navigator. Imor ostatnio był w Ustce podczas budowy kładki.Wieczorem poszliśmy jeszcze do Lidla na zakupy.</p>
+  <h2>O statkach</h2>
   <table>
     <thead>
         <tr>
