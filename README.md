@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Spin-off z " "ustka""</title>
+        <title>Wakacje 2019</title>
         <style>
         
        
@@ -421,7 +421,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
       <option>Międzywodzie</option>
        <option>Kołobrzeg</option>
         <option>Mrzeżyno</option>
-         <option>Darłowo/darlówek</option>
+         <option>Darłowo/Darłówek</option>
           <option>Ustka</option>
            <option>Rowy</option>
             <option>Łeba</option>
