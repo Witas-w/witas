@@ -395,7 +395,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  <h3 id="DD">19.07.2019r.</h3>
     <p>Dziś rano poszliśmy do portu. Gdy do niego weszliśmy odbywało się wodowanie statku <strong>Hollendaren</strong> zbudowanego przez firmę <em>AKVA group</em>. Podczas zanurzania doku gdy wyciągano statek liną podpłynęły dwa statki Złota rybka i Lucek. Podczas obrotu statku zahaczył on oponami o nabrzeże, dok i barierkę. Po wodowaniu statku stanął on przy nabrzeżu stoczni. Po pobycie w porcie poszliśmy na obiad. Następnie idąc promenadą poszliśmy do portu gdzie widzieliśmy statek SM PRC 112 pogłębiający kanał portowy i cztery statki brytyjskie należące do NATO. Przeszliśmy się także ulicą Grunwaldzką do Pasażu Bałtyckiego i Mariny. Wieczorem poszliśmy na plażę zachodnią. Wykopałem tam duży most z piasku. </p>
     <img src="https://camo.githubusercontent.com/ec02c045e3f4c37f2255f32783469244a9ea17d8/68747470733a2f2f692e6962622e636f2f534a59395947582f44382d42392d41372d45342d443736392d343732372d382d4144312d353733303430392d4231352d42452e706e67">
-    
+    https://i.ibb.co/HF6M6bV/81-A58662-34-C0-493-B-B211-A59-C36416-B70.jpg
     
     
     
