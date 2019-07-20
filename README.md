@@ -392,13 +392,14 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
    <p>Dzisiaj byliśmy na obiedzie. Następnie poszliśmy na promenadę i do sklepu <em>Pierre Rene</em>. Potem poszliśmy do portu i na Marynarki. Wracając poszliśmy na gofra do <em>Chomczyńskich</em>. Wieczorem poszliśmy przez kładkę do portu obejrzeć niemiecki żaglowiec.</p>
  <h3>18.07.2019r.</h3>
  <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy na promenadę. Następnie zagraliśmy na automatach w cymber guya. Statek SM PRC 112 wraz z barką Małż 2 pogłębia wejście do portu przez co Dragon wypływa 5 razy dziennie. Gdy wychodziliśmy z portu zauważyłem  statek firmy <em>Akva group</em>, którego wciągano na dok. Chyba jutro będzie jego wodowanie. Wieczorem poszliśmy na ognisko na Politechnice gdzie zjedliśmy kiełbasę i chleb. </p>
- <h3 id="DD">19.07.2019r.</h3>
+ <h3>19.07.2019r.</h3>
     <p>Dziś rano poszliśmy do portu. Gdy do niego weszliśmy odbywało się wodowanie statku <strong>Hollendaren</strong> zbudowanego przez firmę <em>AKVA group</em>. Podczas zanurzania doku gdy wyciągano statek liną podpłynęły dwa statki Złota rybka i Lucek. Podczas obrotu statku zahaczył on oponami o nabrzeże, dok i barierkę. Po wodowaniu statku stanął on przy nabrzeżu stoczni. Po pobycie w porcie poszliśmy na obiad. Następnie idąc promenadą poszliśmy do portu gdzie widzieliśmy statek SM PRC 112 pogłębiający kanał portowy i cztery statki brytyjskie należące do NATO. Przeszliśmy się także ulicą Grunwaldzką do Pasażu Bałtyckiego i Mariny. Wieczorem poszliśmy na plażę zachodnią. Wykopałem tam duży most z piasku. </p>
     <img src="https://camo.githubusercontent.com/ec02c045e3f4c37f2255f32783469244a9ea17d8/68747470733a2f2f692e6962622e636f2f534a59395947582f44382d42392d41372d45342d443736392d343732372d382d4144312d353733303430392d4231352d42452e706e67">
    <img src="https://i.ibb.co/HF6M6bV/81-A58662-34-C0-493-B-B211-A59-C36416-B70.jpg">
     <img src="https://i.ibb.co/nj074kK/074-B68-BA-5-C32-4-A10-8-A89-7-D69-F6-C318-A4.png">
     
-    
+    <h3 id="DD">20.07.2019r.</h3>
+    <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy do <em>Lubicza</em>. W galerii zdjęć znajdują się zdjęcia panoramy Ustki. Następnie poszliśmy na promenadę i na pączki. W porcie statek SM PRC 112 nadal pogłębia kanał portowy. Potem poszliśmy na ulicę Marynarki. Wieczorem poszliśmy na plażę zachodnią. Tam oglądaliśmy zachód słońca.</p>
     
     
     
