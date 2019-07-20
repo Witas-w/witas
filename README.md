@@ -414,7 +414,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
     <option value="spider">pająk</option>
     <option value="goldfish">złota rybka</option>
 </select>
-<label>Wybierz ulubioną miejscowość</label>
+<label>Wybierz ulubioną miejscowość:</label>
 <select>
  <option>--Wybierz opcje--</option>
     <option>Szczecin</option>
