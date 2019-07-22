@@ -404,6 +404,8 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
     <h3 id="DD">21.07.2019r.</h3>
     <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy do <em>Lubicza</em>. Tam wypiłem sok pomarańczowy i obejrzałem panoramę Ustki z dachu hotelu. Następnie przechodząc promenadą oglądaliśmy stoiska górali. Wchodząc do portu wstąpiliśmy na pączki do <em>Starej pączkarni</em>. Do portu przypłynął statek badawczy Mewo navigator, o którym można przeczytać w <a href="#os">tabeli z dnia 16.07.2019r.</a> Po pobycie w porcie skierowaliśmy się do domu. Wieczorem poszliśmy na plażę zachodnią gdzie zbudowałem most z piasku. </p>
     
+  <h3 id="DD">22.07.2019r.</h3>
+  <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy plażą do Perły. Następnie idąc promenadą doszliśmy do portu. Tam stoi statek Mewo navigator, którego zdjęcia można zobaczyć w <a href="https://witas-w.github.io/zdjecia-galeria/">galerii zdjęć</a>. Potem poszliśmy na ulicę Marynarki polskiej i do kawiarni <em>Bacio</em>. W kawiarence wypiłem sok i zjadłem lody. Następnie poszliśmy na przystanek autobusowy skąd zabrał nas autobus lini numer 1. Nim dojechaliśmy do przystanku Wilcza/Darłowska, na którym wysiedliśmy. Jechaliśmy pierwszy raz autobusem przez nowo otwartą ulicę Darłowską.</p>
     
  <label for="pet-select">Wybierz ulubione zwierze:</label>
 
