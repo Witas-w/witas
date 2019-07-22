@@ -401,7 +401,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
     <h3>20.07.2019r.</h3>
     <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy do <em>Lubicza</em>. W galerii zdjęć znajdują się zdjęcia panoramy Ustki. Następnie poszliśmy na promenadę i na pączki. W porcie statek SM PRC 112 nadal pogłębia kanał portowy. Potem poszliśmy na ulicę Marynarki. Wieczorem poszliśmy na plażę zachodnią. Tam oglądaliśmy zachód słońca.</p>
     
-    <h3 id="DD">21.07.2019r.</h3>
+    <h3>21.07.2019r.</h3>
     <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy do <em>Lubicza</em>. Tam wypiłem sok pomarańczowy i obejrzałem panoramę Ustki z dachu hotelu. Następnie przechodząc promenadą oglądaliśmy stoiska górali. Wchodząc do portu wstąpiliśmy na pączki do <em>Starej pączkarni</em>. Do portu przypłynął statek badawczy Mewo navigator, o którym można przeczytać w <a href="#os">tabeli z dnia 16.07.2019r.</a> Po pobycie w porcie skierowaliśmy się do domu. Wieczorem poszliśmy na plażę zachodnią gdzie zbudowałem most z piasku. </p>
     
   <h3 id="DD">22.07.2019r.</h3>
