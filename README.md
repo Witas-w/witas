@@ -404,8 +404,11 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
     <h3>21.07.2019r.</h3>
     <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy do <em>Lubicza</em>. Tam wypiłem sok pomarańczowy i obejrzałem panoramę Ustki z dachu hotelu. Następnie przechodząc promenadą oglądaliśmy stoiska górali. Wchodząc do portu wstąpiliśmy na pączki do <em>Starej pączkarni</em>. Do portu przypłynął statek badawczy Mewo navigator, o którym można przeczytać w <a href="#os">tabeli z dnia 16.07.2019r.</a> Po pobycie w porcie skierowaliśmy się do domu. Wieczorem poszliśmy na plażę zachodnią gdzie zbudowałem most z piasku. </p>
     
-  <h3 id="DD">22.07.2019r.</h3>
+  <h3>22.07.2019r.</h3>
   <p>Dzisiaj byliśmy na obiedzie. Po nim poszliśmy plażą do Perły. Następnie idąc promenadą doszliśmy do portu. Tam stoi statek Mewo navigator, którego zdjęcia można zobaczyć w <a href="https://witas-w.github.io/zdjecia-galeria/">galerii zdjęć</a>. Potem poszliśmy na ulicę Marynarki polskiej i do kawiarni <em>Bacio</em>. W kawiarence wypiłem sok i zjadłem lody. Następnie poszliśmy na przystanek autobusowy skąd zabrał nas autobus lini numer 1. Nim dojechaliśmy do przystanku Wilcza/Darłowska, na którym wysiedliśmy. Jechaliśmy pierwszy raz autobusem przez nowo otwartą ulicę Darłowską.</p>
+  
+  <h3 id="DD">23.07.2019r.</h3>
+  <p>Dzisiaj byliśmy na ostatnim obiedzie. Po nim poszliśmy do <em>Mistrala</em> na Marynarki poskiej, ponieważ ten na Kaszubskiej był przepełniony. Następnie wróciliśmy ulicą Darłowską do domu. Wieczorem poszliśmy do <em>Mistrala</em> po stronie zachodniej i na promenadę, którą doszliśmy do parku Chopina. Po przejściu ulicą Żeromskiego i wstąpieniu do <em>Mistrala u przyjaciół</em> wróciliśmy na promenadę. Statek SM PRC 112 rano pogłębiał ujście Słupii przez co kładka nie została otwarta o godzinie dwunastej i <em>Dragon</em> musiał krążyć na redzie, a wieczorem odwrócony był dziobem w stronę mostu kolejowego i tam barka Małż 2 pogłębiała Słupię.</p>
     
  <label for="pet-select">Wybierz ulubione zwierze:</label>
 
