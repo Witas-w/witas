@@ -409,7 +409,10 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   
   <h3 id="DD">23.07.2019r.</h3>
   <p>Dzisiaj byliśmy na ostatnim obiedzie. Po nim poszliśmy do <em>Mistrala</em> na Marynarki poskiej, ponieważ ten na Kaszubskiej był przepełniony. Następnie wróciliśmy ulicą Darłowską do domu. Wieczorem poszliśmy do <em>Mistrala</em> po stronie zachodniej i na promenadę, którą doszliśmy do parku Chopina. Po przejściu ulicą Żeromskiego i wstąpieniu do <em>Mistrala u przyjaciół</em> wróciliśmy na promenadę. Statek SM PRC 112 rano pogłębiał ujście Słupii przez co kładka nie została otwarta o godzinie dwunastej i <em>Dragon</em> musiał krążyć na redzie, a wieczorem odwrócony był dziobem w stronę mostu kolejowego i tam barka Małż 2 pogłębiała Słupię.</p>
-    
+    <a href="#temat"><button
+    type="button">Do góry</button></a>
+
+
  <label for="pet-select">Wybierz ulubione zwierze:</label>
 
 <select id="pet-select">
