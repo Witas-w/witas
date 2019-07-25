@@ -410,9 +410,11 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   <h3>23.07.2019r.</h3>
   <p>Dzisiaj byliśmy na ostatnim obiedzie. Po nim poszliśmy do <em>Mistrala</em> na Marynarki poskiej, ponieważ ten na Kaszubskiej był przepełniony. Następnie wróciliśmy ulicą Darłowską do domu. Wieczorem poszliśmy do <em>Mistrala</em> po stronie zachodniej i na promenadę, którą doszliśmy do parku Chopina. Po przejściu ulicą Żeromskiego i wstąpieniu do <em>Mistrala u przyjaciół</em> wróciliśmy na promenadę. Statek SM PRC 112 rano pogłębiał ujście Słupii przez co kładka nie została otwarta o godzinie dwunastej i <em>Dragon</em> musiał krążyć na redzie, a wieczorem odwrócony był dziobem w stronę mostu kolejowego i tam barka Małż 2 pogłębiała Słupię.</p>
   
-<h3 id="DD">24.07.2019r.</h3>  
+<h3>24.07.2019r.</h3>  
   <p>Dzisiaj byliśmy w sklepie <em>Diverse</em>. Następnie poszliśmy przez port na promenadę i na automaty. Potem wstąpiliśmy na Politechnikę Wrocławską. W <a href="https://witas-w.github.io/zdjecia-galeria/">galerii zdjęć</a> pojawiły się zdjęcia z osiedla Kościelniaka położonego w Ustce zachodniej. Wieczorem poszliśmy na plażę zachodnią i do herbaciarni <em>(nie)winna piwniczka</em>. W tym lokalu można wypić herbatę, zjeść ciastko z wróżbą lub pyszny serniczek. Następnie wróciliśmy do części zachodniej przez kładkę i nasz skrót leśny. Podczas pobytu na plaży widzieliśmy wypływający załadowany po brzegi statek SM PRC 112. W porcie statki zamieniły się miejscami <em>Dragon</em>stanął w miejscu <em>Kasieńki</em> i <em>Saby</em>, a <em>Saba</em> z <em>Kasieńką</em> w miejscu <em>Dragona</em>.</p>
   
+ <h3 id="DD">25.07.2019r.</h3>
+ <p>Dzisiaj rano poszliśmy do Ustki wschodniej. Idąc ulicą Marynarki doszliśmy do portu z tamtąd poszliśmy na promenadę. Następnie przeszliśmy się ulicą Wczasową do Energetyka i na <em>Trakt Solidarności</em>. Potem zjedliśmy obiad w restauracji <em>Mistral u Przyjaciół</em>. Po obiedzie poszliśmy do domu przez ulicę Darłowską. Wieczorem poszliśmy do baru 3 molo i na plażę zachodnią. Nią przeszliśmy się do osiedla. </p>
   
     <a href="#temat"><button
     type="button">Do góry</button></a>
