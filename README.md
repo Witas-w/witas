@@ -417,7 +417,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  <p>Dzisiaj rano poszliśmy do Ustki wschodniej. Idąc ulicą Marynarki doszliśmy do portu stamtąd poszliśmy na promenadę. Następnie przeszliśmy się ulicą Wczasową do Energetyka i na <em>Trakt Solidarności</em>. Potem zjedliśmy obiad w restauracji <em>Mistral u Przyjaciół</em>. Po obiedzie poszliśmy do domu przez ulicę Darłowską. Wieczorem poszliśmy do baru 3 molo i na plażę zachodnią. Nią przeszliśmy się do osiedla. </p>
  
  <h3 id="DD">26.07.2019r.</h3>
- <p>Dzisiaj rano poszliśmy do Ustki wschodniej. Tam weszliśmy do Jabłonowskich i kupiliśmy kawę. O godzinie 12 wróciliśmy do Ustki zachodniej kładką. Potem poszliśmy do restauracji <em>Krzywy róg</em> gdzie zjedliśmy pyszne pierogi i rosół. Wieczorem poszliśmy na plażę zachodnią i przeszliśmy się do rzeki Czarnej, która została zasypana przez wydmy. Statek SM Prc 112 nadal pogłębia port koło mostu kolejowego.</p>
+ <p>Dzisiaj rano poszliśmy do Ustki wschodniej. Tam weszliśmy do Jabłonowskich i kupiliśmy kawę. O godzinie 12 wróciliśmy do Ustki zachodniej kładką. Potem poszliśmy do restauracji <em>Krzywy róg</em> gdzie zjedliśmy pyszne pierogi i rosół. Wieczorem poszliśmy na plażę zachodnią i przeszliśmy się do rzeki Czarnej, która została zasypana przez wydmy. Statek SM PRC 112 nadal pogłębia port koło mostu kolejowego.</p>
   
     <a href="#temat"><button
     type="button">Do góry</button></a>
