@@ -9,7 +9,7 @@
         
         body {
             background-color: rgb(225, 230, 212);
-             margin: none;
+             margin: 0;
              text-align: center;
              font-family: cursive;
               border: 1px solid rgb(230, 25, 25);
