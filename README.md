@@ -413,8 +413,11 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
 <h3>24.07.2019r.</h3>  
   <p>Dzisiaj byliśmy w sklepie <em>Diverse</em>. Następnie poszliśmy przez port na promenadę i na automaty. Potem wstąpiliśmy na Politechnikę Wrocławską. W <a href="https://witas-w.github.io/zdjecia-galeria/">galerii zdjęć</a> pojawiły się zdjęcia z osiedla Kościelniaka położonego w Ustce zachodniej. Wieczorem poszliśmy na plażę zachodnią i do herbaciarni <em>(nie)winna piwniczka</em>. W tym lokalu można wypić herbatę, zjeść ciastko z wróżbą lub pyszny serniczek. Następnie wróciliśmy do części zachodniej przez kładkę i nasz skrót leśny. Podczas pobytu na plaży widzieliśmy wypływający załadowany po brzegi statek SM PRC 112. W porcie statki zamieniły się miejscami <em>Dragon</em>stanął w miejscu <em>Kasieńki</em> i <em>Saby</em>, a <em>Saba</em> z <em>Kasieńką</em> w miejscu <em>Dragona</em>.</p>
   
- <h3 id="DD">25.07.2019r.</h3>
+ <h3>25.07.2019r.</h3>
  <p>Dzisiaj rano poszliśmy do Ustki wschodniej. Idąc ulicą Marynarki doszliśmy do portu stamtąd poszliśmy na promenadę. Następnie przeszliśmy się ulicą Wczasową do Energetyka i na <em>Trakt Solidarności</em>. Potem zjedliśmy obiad w restauracji <em>Mistral u Przyjaciół</em>. Po obiedzie poszliśmy do domu przez ulicę Darłowską. Wieczorem poszliśmy do baru 3 molo i na plażę zachodnią. Nią przeszliśmy się do osiedla. </p>
+ 
+ <h3 id="DD">26.07.2019r.</h3>
+ <p>Dzisiaj rano poszliśmy do Ustki wschodniej. Tam weszliśmy do Jabłonowskich i kupiliśmy kawę. O godzinie 12 wróciliśmy do Ustki zachodniej kładką. Potem poszliśmy do restauracji <em>Krzywy róg</em> gdzie zjedliśmy pyszne pierogi i rosół. Wieczorem poszliśmy na plażę zachodnią i przeszliśmy się do rzeki Czarnej, która została zasypana przez wydmy. Statek SM Prc 112 nadal pogłębia port koło mostu kolejowego.</p>
   
     <a href="#temat"><button
     type="button">Do góry</button></a>
