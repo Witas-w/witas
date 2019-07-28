@@ -8,7 +8,7 @@
        
         
         body {
-            background-color: rgb(225, 230, 212);
+            background-color:"https://upload.wikimedia.org/wikipedia/commons/9/90/Vauxhall_-_Nine_Elms_-_Battersea_-_Pimlico_at_night.jpg";
              margin: 0;
              text-align: center;
              font-family: cursive;
